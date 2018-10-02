@@ -1,0 +1,17 @@
+DESAFIO DATA SCIENCE- SEMANTIX
+
+Candidata: Juliana Maria Massari.
+
+RESPOSTAS:
+
+1-	A profissão mais tendenciosa a fazer empréstimo bancário é a “blue-collar”, do tipo empréstimo habitacional (housing).
+
+2-	A maioria dos clientes que efetuam o depósito tiveram apenas um contato prévio. Quando mais de um contato prévio foi verificado, deve-se considerar outros quesitos (atributos), em especial “job” e “marital” para predizer se o cliente aceitará a proposta. Ou seja, uma nova regra de decisão poderá ser embasada, o que tornará o sistema de marketing mais eficiente e econômico (redução do número de ligações).
+
+3-	Baseado nos estudos desta campanha indica-se a média mínima de 2 ligações por cliente, no máximo 5, uma vez que é nesse intervalo em que ocorrem as maiores taxas de adesão do cliente.
+
+4-	O resultado da campanha anterior não possui relevância com a atual, pois à minoria das adesões realizadas possuem histórico positivo. Todavia, observa-se que a grande maioria das novas adesões não informou se aderiu à campanha anterior, fato este de grande relevância e com potencial de alterar a resposta (predição do modelo).
+
+5-	O fator determinante é o tipo de emprego “job”.
+
+6-	As principais características são: idade entre 33 a 41 anos, estado civil casado, profissão “blue-collar”, segundo grau de escolaridade, que não tenha empréstimo e que não possua crédito devedor, que possua renda anual de até 2995,60 euros.
